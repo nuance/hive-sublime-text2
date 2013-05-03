@@ -6,6 +6,7 @@
 	<array>
 		<string>hql</string>
 		<string>sql</string>
+		<string>ql</string>
 	</array>
 	<key>name</key>
 	<string>Hive</string>
